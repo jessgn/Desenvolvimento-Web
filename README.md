@@ -1,2 +1,2 @@
-# Desenvolvimento-Web
+# Dev Web
 Exercícios desenvolvidos em sala, na matéria de Desenvolvimento Web I
